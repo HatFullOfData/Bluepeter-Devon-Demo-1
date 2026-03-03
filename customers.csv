@@ -1,0 +1,21 @@
+CustomerID,CustomerName,ContactName,Phone,FullAddress,CustomerType,CreditLimit,MemberSince
+C001,The Harbour Kitchen,Sarah  Mitchell,01803 221456,"14 Quay Street, Dartmouth, Devon, TQ6 9PS",Restaurant,"£3,500",12/03/2018 09:00:00
+C002,  Moor Feast Caterers,James Thornton,01364-654321,"Unit 7 Dartmoor Business Park, Ashburton, Devon, TQ13 7DW",caterer,"£8,000",05/07/2019 09:00:00
+C003,The Crooked Spoon,Emily  Hartley,(01271) 345678,"2 Boutport Street, Barnstaple, Devon, EX31 1RX",Restaurant,"£2,500",22/11/2017 09:00:00
+C004,Westcountry Banqueting Co.,Robert Patel,01392 776543,"Newcourt Farm, Clyst Road, Exeter, Devon, EX5 1AF",CATERER,"£12,000",30/01/2021 09:00:00
+C005,Salcombe Bay Bistro,Charlotte  Webb,01548-843201,"3 Fore Street, Salcombe, Devon, TQ8 8JQ",restaurant,"£4,000",14/06/2020 09:00:00
+C006,Tamar Valley Catering,David  Okafor,01822 613400,"Riverside Works, Gunnislake, Devon, PL18 9BH",Caterer,"£9,500",08/02/2016 09:00:00
+C007,The Topsham Table,Fiona  Lang,(01392) 873421,"17 The Strand, Topsham, Exeter, Devon, EX3 0AY",Restaurant,"£3,000",19/09/2022 09:00:00
+C008,Peninsula Events Catering,Marcus  Singh,01803-867500,"5 Palace Avenue, Paignton, Devon, TQ3 3HJ",caterer,"£15,000",01/04/2015 09:00:00
+C009,Dartmouth Arms,Harriet  Bowden,01803 835641,"6 Smith Street, Dartmouth, Devon, TQ6 9QR",RESTAURANT,"£2,000",27/08/2023 09:00:00
+C010,Devon Deli & Dining,Oliver Chambers,(01392) 254890,"22 Gandy Street, Exeter, Devon, EX4 3LS",Restaurant,"£5,000",11/12/2019 09:00:00
+C011,Exmoor Edge Restaurant,Isabelle  Fox,01643 702345,"Porlock Hill House, Porlock, Somerset, TA24 8NU",restaurant,"£3,500",03/05/2021 09:00:00
+C012,Torbay Feast Co.,Benjamin  Carr,01803-297654,"Unit 3 Riviera Park, Newton Road, Torquay, Devon, TQ2 5BW",Caterer,"£11,000",17/03/2018 09:00:00
+C013,The Leaping Salmon,Grace  Wilkins,(01769) 550210,"Bridge Street, South Molton, Devon, EX36 3AB",Restaurant,"£2,500",09/10/2020 09:00:00
+C014,Spice & Salt Bistro,Thomas  Nguyen,01271 864321,"Boutport Street, Barnstaple, Devon, EX31 1SN",restaurant,"£4,500",22/06/2017 09:00:00
+C015,  Okehampton Catering  ,Rachel  Morgan,01837-52634,"Unit 9 Oaklands Park, Okehampton, Devon, EX20 1GS",CATERER,"£7,500",14/02/2022 09:00:00
+C016,Brixham Catch Restaurant,Nathan  Price,(01803) 882145,"The Quay, Brixham, Devon, TQ5 8AW",Restaurant,"£3,000",30/07/2019 09:00:00
+C017,Honiton Heritage Dining,Laura  Stone,01404 43210,"High Street, Honiton, Devon, EX14 1PX",restaurant,"£2,000",05/11/2021 09:00:00
+C018,Cranberry Contract Catering,Michael  Flynn,01395-274800,"Exmouth Business Centre, Exmouth, Devon, EX8 2LR",caterer,"£20,000",01/01/2014 09:00:00
+C019,The Old Mill Kitchen,Sophie  Drake,(01837) 55678,"Mill Lane, Chagford, Devon, TQ13 8AJ",Restaurant,"£2,500",18/04/2023 09:00:00
+C020,South Hams Suppers,Andrew  Beale,01548 857123,"3 Church Street, Kingsbridge, Devon, TQ7 1BL",Caterer,"£6,000",25/09/2020 09:00:00
