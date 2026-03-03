@@ -1,0 +1,31 @@
+ProductID,ProductName,Category,SupplierCode,PackSize,UnitPrice,StockQuantity,ReorderLevel,Origin,IsOrganic
+P001,Basil,Herb ,SUPS-HRB-001,50g,£ 2.80,142,30,Italy,Yes
+P002,Thyme,Herb,SUPS-HRB-002,25 g,£ 2.50,98,25,France,No
+P003,Rosemary,Herb ,SUPS-HRB-003,30g,£ 2.60,115,25,Spain,Yes
+P004,Oregano,Herb,SUPS-HRB-004,25g,£ 2.40,73,20,Greece,No
+P005,Flat Leaf Parsley,Herb,SUPS-HRB-005,30 g,£ 2.70,88,20,Morocco,No
+P006,Tarragon,Herb ,SUPS-HRB-006,20g,£ 3.20,44,15,France,Yes
+P007,Sage,Herb,SUPS-HRB-007,25g,£ 2.90,61,20,Albania,No
+P008,Dill,Herb,SUPS-HRB-008,20 g,£ 2.75,52,15,Egypt,Yes
+P009,Chives,Herb ,SUPS-HRB-009,15g,£ 2.50,79,20,Netherlands,No
+P010,Mint,Herb,SUPS-HRB-010,20g,£ 2.60,93,25,Morocco,No
+P011,Bay Leaves,Herb,SUPS-HRB-011,10g,£ 2.20,134,30,Turkey,Yes
+P012,Lemon Thyme,Herb ,SUPS-HRB-012,20 g,£ 3.00,38,15,France,Yes
+P013,Cumin,Spice,SUPS-SPC-001,50g,£ 3.10,105,25,India,No
+P014,Turmeric,Spice ,SUPS-SPC-002,50g,£ 3.40,87,20,India,Yes
+P015,Smoked Paprika,Spice,SUPS-SPC-003,50 g,£ 3.50,76,20,Spain,No
+P016,Cinnamon,Spice,SUPS-SPC-004,50g,£ 4.20,63,20,Sri Lanka,Yes
+P017,Black Pepper,Spice ,SUPS-SPC-005,100g,£ 4.80,199,40,Vietnam,No
+P018,Cardamom,Spice,SUPS-SPC-006,25g,£ 6.50,41,15,Guatemala,Yes
+P019,Ground Ginger,Spice,SUPS-SPC-007,50 g,£ 3.20,94,25,Nigeria,No
+P020,Cloves,Spice ,SUPS-SPC-008,25g,£ 5.10,48,15,Indonesia,Yes
+P021,Nutmeg,Spice,SUPS-SPC-009,25g,£ 5.40,55,15,Indonesia,No
+P022,Star Anise,Spice,SUPS-SPC-010,30 g,£ 4.90,39,15,China,No
+P023,Chilli Powder,Spice ,SUPS-SPC-011,50g,£ 3.30,82,20,India,No
+P024,Saffron,Spice,SUPS-SPC-012,1 g,£18.50,22,10,Iran,Yes
+P025,Cayenne Pepper,Spice,SUPS-SPC-013,50g,£ 3.60,71,20,India,No
+P026,Coriander Seeds,Spice ,SUPS-SPC-014,50 g,£ 3.00,96,25,Morocco,No
+P027,Fennel Seeds,Spice,SUPS-SPC-015,50g,£ 3.20,57,15,Egypt,Yes
+P028,Coriander Leaf,Herb ,SUPS-HRB-013,15g,£ 2.60,110,25,Morocco,No
+P029,Mustard Seeds,Spice,SUPS-SPC-016,50 g,£ 2.90,68,20,Canada,No
+P030,Fenugreek,Spice ,SUPS-SPC-017,50g,£ 3.40,43,15,India,Yes
